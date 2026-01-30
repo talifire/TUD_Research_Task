@@ -1,0 +1,20 @@
+# Private raw data (never uploaded)
+data/
+graphs/
+
+# R junk
+.Rhistory
+.RData
+.RDataTmp
+.Rproj.user/
+.Rproj.user/
+.history/
+Tmp/
+
+# Knitr / Quarto
+*_cache/
+*_files/
+
+# OS junk
+.DS_Store
+Thumbs.db
