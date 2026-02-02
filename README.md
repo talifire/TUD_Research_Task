@@ -1,7 +1,7 @@
 # TUD_Reasearch_Task_ATL
 # Data-Driven Evaluation of Airport Slot Adherence
 
-This repository contains the analysis code used to generate the results presented in the paper:
+This repository contains analysis code illustrating a data-driven approach to airport slot adherence that is consistent with, but not identical to, the methodology presented in the paper:
 
 **“Data-Driven Evaluation of Airport Slot Adherence”**  
 Tetiana Alifirenko, Rainer Koelle, Hartmut Fricke
